@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 
 <h1 align="center">Hi 👋, I'm Abdullah SHafiQ</h1>
 <h3 align="center">i am Software Engineer with a passion for Science and New Technologies</h3>
