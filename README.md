@@ -1,4 +1,5 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*A6Sl8DS_C6-mYf2KiqvtyA.gif)
+![](https://api.visitorbadge.io/api/VisitorHit?user=Abdallah-Shehab&repo=Abdallah-Shehab-badge&countColor=%237B1E7A)
 # 💫 About Me:
 🔭 I’m currently working on Full stack project with react<br> and Django<br>💬 Ask me about any thing you want <br>📮 You can reach me on gmail : abdallah.shafiq49@gmail.com<br>  Or Contact me via Social media links below 👇
 
