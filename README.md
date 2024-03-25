@@ -3,7 +3,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Abdallah-Shehab.Abdallah-Shehab&left_color=black&right_color=crimson&left_text=%F0%9F%91%81%EF%B8%8F%20Profile%20Views"  />
   <br clear="both">
   <br>
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanltMXdsbmI3aHB6eDl0aGFsZTQ0ODd5ZXNoNzEzenRmNmxha3VrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+  <img height="300" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanltMXdsbmI3aHB6eDl0aGFsZTQ0ODd5ZXNoNzEzenRmNmxha3VrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdallah+SHAFIQ!;" />
