@@ -9,10 +9,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdallah+SHAFIQ!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Egypt</h3>
+<h3 align="center">A passionate software Engineer from Egypt</h3>
  
 # 💫 About Me:
-🔭 I’m currently working on ITI Scholarship<br>🌱 I’m currently learning Angular, .NET Framework<br>💬 Ask me about HTML, CSS, JS<br>👨‍💻 All of my projects are available at github.com/Abdallah-Shehab<br>📫 How to reach me abdallah.shafiq49@gmail.com<br>⚡ Fun fact I think I am funny
+🔭 I’m currently working in Link Development <br>📫 How to reach me abdallah.shafiq49@gmail.com<br>⚡ Fun fact I think I am funny
 
 ## 🌐 Socials:
 
